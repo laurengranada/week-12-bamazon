@@ -10,6 +10,10 @@ This is an Amazon-like storefront with the MySQL in the command line. The app wi
 
 ![alt text](https://github.com/laurengranada/week-12-bamazon/blob/master/read-images/screen.png)
 
+
+
+![alt text](https://github.com/laurengranada/week-12-bamazon/blob/master/read-images/mySQL.png)
+
 ### Languages/Technologies Used
 - Javascript
 - mysql npm
